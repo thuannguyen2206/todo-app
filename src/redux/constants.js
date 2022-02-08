@@ -1,0 +1,12 @@
+// todo
+export const ADD_TODO="ADD_TODO";
+
+export const TOGGLE_TODO_STATUS="TOGGLE_TODO_STATUS";
+
+
+// filter
+export const SET_SEARCH_TEXT_FILTER="SET_SEARCH_TEXT_FILTER";
+
+export const SET_STATUS_FILTER="SET_STATUS_FILTER";
+
+export const SET_PRIORITIES_FILTER="SET_PRIORITIES_FILTER";
